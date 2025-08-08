@@ -2,7 +2,7 @@
 ![Welcome Banner](https://i.ibb.co/2vN4hFv/github-banner.gif)
 
 # 👋 Xin chào! Tôi là Nguyễn Duy Đăng Bảng  
-💻 Backend Developer  
+💻 Java Developer  
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 ## 📫 Liên hệ
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/angbang.72325)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:candyyeukoi10@gmail.com)
 
